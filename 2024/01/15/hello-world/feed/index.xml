@@ -1,0 +1,40 @@
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Adobe Experience Manager へのコメント	</title>
+	<atom:link href="/wp_portfolio01//2024/01/15/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>/wp_portfolio01//2024/01/15/hello-world/</link>
+	<description>Jinya Yamamoto</description>
+	<lastBuildDate>Wed, 17 Jan 2024 13:32:06 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>
+		WordPress コメントの投稿者 より		</title>
+		<link>/wp_portfolio01//2024/01/15/hello-world/#comment-1</link>
+
+		<dc:creator><![CDATA[WordPress コメントの投稿者]]></dc:creator>
+		<pubDate>Mon, 15 Jan 2024 14:52:03 +0000</pubDate>
+		<guid isPermaLink="false">/wp_portfolio01//?p=1#comment-1</guid>
+
+					<description><![CDATA[こんにちは、これはコメントです。
+コメントの承認、編集、削除を始めるにはダッシュボードの「コメント」画面にアクセスしてください。
+コメントのアバターは「&lt;a href=&quot;https://ja.gravatar.com/&quot;&gt;Gravatar&lt;/a&gt;」から取得されます。]]></description>
+			<content:encoded><![CDATA[<p>こんにちは、これはコメントです。<br />
+コメントの承認、編集、削除を始めるにはダッシュボードの「コメント」画面にアクセスしてください。<br />
+コメントのアバターは「<a href="https://ja.gravatar.com/">Gravatar</a>」から取得されます。</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

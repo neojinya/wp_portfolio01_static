@@ -1,0 +1,304 @@
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>MY Portfolio</title>
+	<atom:link href="/wp_portfolio01//feed/" rel="self" type="application/rss+xml" />
+	<link>/wp_portfolio01/</link>
+	<description>Jinya Yamamoto</description>
+	<lastBuildDate>Thu, 25 Jan 2024 11:34:56 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Front side</title>
+		<link>/wp_portfolio01//2024/01/16/test-post/</link>
+					<comments>/wp_portfolio01//2024/01/16/test-post/#respond</comments>
+		
+		<dc:creator><![CDATA[jinya]]></dc:creator>
+		<pubDate>Tue, 16 Jan 2024 08:39:18 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<guid isPermaLink="false">/wp_portfolio01//?p=18</guid>
+
+					<description><![CDATA[主なスキルであるフロントエンドについてできることや実績などについて紹介させていただきます。&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p></p>
+
+
+
+<p>主なスキルであるフロントエンドについてできることや実績などについて紹介させていただきます。</p>
+
+
+
+<h3 class="wp-block-heading">経験した技術</h3>
+
+
+
+<ul>
+<li>HTML5</li>
+
+
+
+<li>CSS3</li>
+
+
+
+<li>JavaScript</li>
+
+
+
+<li>Sass</li>
+
+
+
+<li>jQuery</li>
+
+
+
+<li>API呼び出し、レスポンス受け取り</li>
+
+
+
+<li>レスポンシブ対応サイト構築</li>
+
+
+
+<li>非同期通信</li>
+
+
+
+<li>NPMなどのパッケージマネージャの基本的な取扱い</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">実際に参画した案件の例</h3>
+
+
+
+<h4 class="wp-block-heading">某保険会社のキャンペーンページ作成</h4>
+
+
+
+<p>レスポンシブ対応のページを作成。デザイナーさんに作成していただいたXDを参照しつつ打ち合わせを繰り返しピクセル単位で修正を繰り返し作成しました。JSでクリックに応じた結果出し分けなどを実装しました。</p>
+
+
+
+<p></p>
+
+
+
+<h4 class="wp-block-heading">大手日用品製造会社の新卒採用サイトのリニュールアル</h4>
+
+
+
+<p>カルーセルでのコンテンツの表示やオンクリックで表示の変更、また背景の効果など、レスポンシブ対応でさらに動きのあるデザインのサイトを再現するのに苦労しました。限られた納期の中でお客様に求められているものを再現するためディレクター・デザイナーなどと頻繁にミーティングを行いチーム一丸となりサイトを制作し、クライアントからも良い評価をいただけたようでした。また後日、Webグランプリのコーポレート部門で賞を受賞していました。<br><br></p>
+
+
+
+<h4 class="wp-block-heading">某レシピサイトの運用</h4>
+
+
+
+<p>テキストの変更や、新規レシピの追加などを行いました。<br>ソースコードの編集は少なかったでのですが、一括処理での編集などが多かったため手打ちは行わずに編集などミスがないように徹底して作業しておりました。</p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p><br></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/wp_portfolio01//2024/01/16/test-post/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>WordPress</title>
+		<link>/wp_portfolio01//2024/01/16/%e3%81%af%e3%82%8d%e3%83%bc%e3%82%8f%e3%83%bc%e3%82%8b%e3%81%a93/</link>
+					<comments>/wp_portfolio01//2024/01/16/%e3%81%af%e3%82%8d%e3%83%bc%e3%82%8f%e3%83%bc%e3%82%8b%e3%81%a93/#respond</comments>
+		
+		<dc:creator><![CDATA[jinya]]></dc:creator>
+		<pubDate>Tue, 16 Jan 2024 08:24:02 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<guid isPermaLink="false">/wp_portfolio01//?p=15</guid>
+
+					<description><![CDATA[WordPressに関しても多少ではありますが、一通り業務で経験させていただいたことがあります。
+スタイルなどを記述したり、PHPの簡単な処理を修正したりなどといった作業を行ったことがあります。&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>WordPressに関しても多少ではありますが、一通り業務で経験させていただいたことがあります。<br>スタイルなどを記述したり、PHPの簡単な処理を修正したりなどといった作業を行ったことがあります。</p>
+
+
+
+<h3 class="wp-block-heading">できる・経験したこと</h3>
+
+
+
+<ul>
+<li>サイト構築</li>
+
+
+
+<li>簡単なテーマのカスタマイズ</li>
+
+
+
+<li>プラグイン追加など</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">参画案件</h3>
+
+
+
+<h4 class="wp-block-heading">参議院選挙事務所のサイト構築作業</h4>
+
+
+
+<p>とある候補者様のお客様の事務所のワードプレスサイトの編集などをさせていただきました。<br>画像差し替えやテキスト編集など基本的な作業が多かったです。<br></p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/wp_portfolio01//2024/01/16/%e3%81%af%e3%82%8d%e3%83%bc%e3%82%8f%e3%83%bc%e3%82%8b%e3%81%a93/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Adobe Experience Manager</title>
+		<link>/wp_portfolio01//2024/01/15/hello-world/</link>
+					<comments>/wp_portfolio01//2024/01/15/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[jinya]]></dc:creator>
+		<pubDate>Mon, 15 Jan 2024 14:52:03 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<guid isPermaLink="false">/wp_portfolio01//?p=1</guid>
+
+					<description><![CDATA[AEMと呼ばれるWebサイト構築・運営ができるアプリケーションです。CMSのような使い方ができますがCMSではないようで、主に企業の大規模サイトに利用されています。
+このAEMを使用して、企業サイトの新規ページ作成や運用などを行っていました。&#8230;]]></description>
+										<content:encoded><![CDATA[
+<h3 class="wp-block-heading">Adobe Experience Manager(AEM)について</h3>
+
+
+
+<p>AEMと呼ばれるWebサイト構築・運営ができるアプリケーションです。CMSのような使い方ができますがCMSではないようで、主に企業の大規模サイトに利用されています。<br>このAEMを使用して、企業サイトの新規ページ作成や運用などを行っていました。</p>
+
+
+
+<h3 class="wp-block-heading">実際に参画した案件の例</h3>
+
+
+
+<h4 class="wp-block-heading">某携帯電話事業会社の運用</h4>
+
+
+
+<p>新規ページ作成から公開までの作業を行いました。<br>GUIにて作業もできますが、スタイルシートやJSのソースを適用できたりもしますので工夫次第で様々な作業を行いました。<br>しかし、記述したソースと、AEM内部のソースが重複したり打ち消しあったりするので取り扱いには注意が必要でした。</p>
+
+
+
+<p>また、本番アップロードなども簡単にできてしまうので気をつけなければサイトに大きな影響が出てしまいます。公開などの際は必ず単独では作業せずを、工夫や改善を繰り返しながら運用を行ったことはいい経験になりました。</p>
+
+
+
+<p><br></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/wp_portfolio01//2024/01/15/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Others</title>
+		<link>/wp_portfolio01//2024/01/16/%e3%83%98%e3%83%ad%e3%83%bc%e3%83%af%e3%83%bc%e3%83%ab%e3%83%89/</link>
+					<comments>/wp_portfolio01//2024/01/16/%e3%83%98%e3%83%ad%e3%83%bc%e3%83%af%e3%83%bc%e3%83%ab%e3%83%89/#respond</comments>
+		
+		<dc:creator><![CDATA[jinya]]></dc:creator>
+		<pubDate>Mon, 15 Jan 2024 16:29:34 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<guid isPermaLink="false">/wp_portfolio01//?p=13</guid>
+
+					<description><![CDATA[こちらでは業務で使用可能なツールや多少知識のある言語などを書きます。&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>こちらでは業務で使用可能なツールや多少知識のある言語などを書きます。</p>
+
+
+
+<h3 class="wp-block-heading">バージョン管理</h3>
+
+
+
+<p>基本的にsourcetreeを使って管理していました。GitHubも多少扱えます。</p>
+
+
+
+<h3 class="wp-block-heading">サーバーサイド</h3>
+
+
+
+<p>こちらについてはフロントエンドに比べて経験は浅くなりますが、業務ではPHPを使用していました。<br>また、Ruby, Pythonをしておりましたので少しだけ知識はあります。</p>
+
+
+
+<h4 class="wp-block-heading"><br>学習した言語やフレームワークについて</h4>
+
+
+
+<ul>
+<li>Ruby</li>
+
+
+
+<li>Python</li>
+
+
+
+<li>PHP</li>
+
+
+
+<li>Ruby on rails</li>
+</ul>
+
+
+
+<p>その他</p>
+
+
+
+<p>AWSも使用して本番にアプリケーションをアップロードしたこともありますが、一度きりだったので完全に使用方法を忘れてしまいました。</p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/wp_portfolio01//2024/01/16/%e3%83%98%e3%83%ad%e3%83%bc%e3%83%af%e3%83%bc%e3%83%ab%e3%83%89/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,70 @@
+/*
+Theme Name: gk-portfolio-child
+Template: gk-portfolio
+*/
+
+
+/* .article-helper .post-image.loaded {
+  opacity: .7;
+} */
+
+.article-helper .entry-title {
+  font-size: 17px;
+}
+
+.article-helper .entry-summary p {
+  /* font-size: 14px; */
+  /* color: #000000c2; */
+}
+
+.post-preview.animation-slide-up {
+  top: 78%;
+  opacity: .8;
+}
+
+/* .entry-title {
+  font-weight: bold;
+} */
+
+h1.site-title:first-letter {
+  font-size: 2em;
+  color: #7172ac;
+}
+
+/* 投稿ページの見出しのスタイル */
+.single-post .content-area h1:first-letter {
+  font-size: 2em;
+  color: #eda01a;
+}
+.single-post .content-area h3 {
+  border-bottom: solid 3px #00000069;
+}
+
+.single-post .content-area h4 {
+ padding: 0.5em;/*文字周りの余白*/
+ color: #494949;/*文字色*/
+ background: #fffaf4;/*背景色*/
+ border-left: solid 5px #ffaf58;/*左線（実線 太さ 色）*/
+}
+
+
+  .content-area .post-preview {
+      padding: 0px 16px 36px 16px;
+  }
+
+.post-preview {
+  padding: 0px 16px 36px 16px;
+  }
+  
+  .article-helper .entry-title {
+      height: 74.2px;
+      padding: 0;
+      display: flex;
+  }
+  
+  .article-helper .entry-title a {
+      flex-direction: column;
+      display: flex;
+      justify-content: center;
+  }
+
