@@ -842,7 +842,7 @@ ul.nav-menu ul a,
 
 .site-header .search-field {
 	background-color: transparent;
-	background-image: url(/wp_portfolio01//wp-content/themes/gk-portfolio/images/search-icon.png);
+	background-image: url(/wp_portfolio01_static/wp-content/themes/gk-portfolio/images/search-icon.png);
 	background-position: 5px center;
 	background-repeat: no-repeat;
 	background-size: 24px 24px;
@@ -1828,7 +1828,7 @@ footer.entry-meta > .edit-link {
 
 
 #content .article-helper.notloaded {
-	background: #f5f5f5 url('/wp_portfolio01//wp-content/themes/gk-portfolio/images/loader.gif') no-repeat center center;
+	background: #f5f5f5 url('/wp_portfolio01_static/wp-content/themes/gk-portfolio/images/loader.gif') no-repeat center center;
 }
 
 .post-preview {

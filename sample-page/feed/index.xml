@@ -9,8 +9,8 @@
 <channel>
 	<title>
 	自己紹介 へのコメント	</title>
-	<atom:link href="/wp_portfolio01//sample-page/feed/" rel="self" type="application/rss+xml" />
-	<link>/wp_portfolio01/</link>
+	<atom:link href="/wp_portfolio01_static/sample-page/feed/" rel="self" type="application/rss+xml" />
+	<link>/wp_portfolio01_static</link>
 	<description>Jinya Yamamoto</description>
 	<lastBuildDate>Wed, 17 Jan 2024 11:55:53 +0000</lastBuildDate>
 	<sy:updatePeriod>

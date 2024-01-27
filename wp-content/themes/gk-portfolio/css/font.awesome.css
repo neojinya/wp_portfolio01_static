@@ -6,8 +6,8 @@
  * -------------------------- */
 @font-face {
   font-family: 'FontAwesome';
-  src: url('/wp_portfolio01//wp-content/themes/gk-portfolio/fonts/font-awesome/fontawesome-webfont.eot?v=4.2.0');
-  src: url('/wp_portfolio01//wp-content/themes/gk-portfolio/fonts/font-awesome/fontawesome-webfont.eot#iefix&v=4.2.0') format('embedded-opentype'), url('/wp_portfolio01//wp-content/themes/gk-portfolio/fonts/font-awesome/fontawesome-webfont.woff?v=4.2.0') format('woff'), url('/wp_portfolio01//wp-content/themes/gk-portfolio/fonts/font-awesome/fontawesome-webfont.ttf?v=4.2.0') format('truetype'), url('/wp_portfolio01//wp-content/themes/gk-portfolio/fonts/font-awesome/fontawesome-webfont.svg?v=4.2.0#fontawesomeregular') format('svg');
+  src: url('/wp_portfolio01_static/wp-content/themes/gk-portfolio/fonts/font-awesome/fontawesome-webfont.eot?v=4.2.0');
+  src: url('/wp_portfolio01_static/wp-content/themes/gk-portfolio/fonts/font-awesome/fontawesome-webfont.eot#iefix&v=4.2.0') format('embedded-opentype'), url('/wp_portfolio01_static/wp-content/themes/gk-portfolio/fonts/font-awesome/fontawesome-webfont.woff?v=4.2.0') format('woff'), url('/wp_portfolio01_static/wp-content/themes/gk-portfolio/fonts/font-awesome/fontawesome-webfont.ttf?v=4.2.0') format('truetype'), url('/wp_portfolio01_static/wp-content/themes/gk-portfolio/fonts/font-awesome/fontawesome-webfont.svg?v=4.2.0#fontawesomeregular') format('svg');
   font-weight: normal;
   font-style: normal;
 }
