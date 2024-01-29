@@ -12,29 +12,11 @@
 	<atom:link href="/wp_portfolio01_static/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>/wp_portfolio01_static</link>
 	<description>Jinya Yamamoto</description>
-	<lastBuildDate>Mon, 29 Jan 2024 21:32:08 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 29 Jan 2024 22:10:12 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.4.2</generator>
-	<item>
-		<title>
-		WordPress コメントの投稿者 より Adobe Experience Manager へのコメント		</title>
-		<link>/wp_portfolio01_static/2024/01/28/aem/#comment-1</link>
-
-		<dc:creator><![CDATA[WordPress コメントの投稿者]]></dc:creator>
-		<pubDate>Mon, 15 Jan 2024 14:52:03 +0000</pubDate>
-		<guid isPermaLink="false">/wp_portfolio01_static/?p=1#comment-1</guid>
-
-					<description><![CDATA[こんにちは、これはコメントです。
-コメントの承認、編集、削除を始めるにはダッシュボードの「コメント」画面にアクセスしてください。
-コメントのアバターは「&lt;a href=&quot;https://ja.gravatar.com/&quot;&gt;Gravatar&lt;/a&gt;」から取得されます。]]></description>
-			<content:encoded><![CDATA[<p>こんにちは、これはコメントです。<br />
-コメントの承認、編集、削除を始めるにはダッシュボードの「コメント」画面にアクセスしてください。<br />
-コメントのアバターは「<a href="https://ja.gravatar.com/">Gravatar</a>」から取得されます。</p>
-]]></content:encoded>
-		
-			</item>
-	</channel>
+</channel>
 </rss>

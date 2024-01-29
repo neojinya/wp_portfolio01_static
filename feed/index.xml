@@ -13,7 +13,7 @@
 	<atom:link href="/wp_portfolio01_static/feed/" rel="self" type="application/rss+xml" />
 	<link>/wp_portfolio01_static</link>
 	<description>Jinya Yamamoto</description>
-	<lastBuildDate>Mon, 29 Jan 2024 21:32:15 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 29 Jan 2024 22:10:12 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -369,7 +369,7 @@
 		<item>
 		<title>Adobe Experience Manager</title>
 		<link>/wp_portfolio01_static/2024/01/28/aem/</link>
-					<comments>/wp_portfolio01_static/2024/01/28/aem/#comments</comments>
+					<comments>/wp_portfolio01_static/2024/01/28/aem/#respond</comments>
 		
 		<dc:creator><![CDATA[jinya]]></dc:creator>
 		<pubDate>Sun, 28 Jan 2024 14:52:03 +0000</pubDate>
@@ -383,7 +383,7 @@
 
 
 
-<p>AEMと呼ばれるWebサイト構築・運営ができるアプリケーションです。CMSのような使い方ができますがCMSではないようで、主に企業の大規模サイトに利用されています。<br>このAEMを使用して、企業サイトの新規ページ作成や運用などを行っていました。</p>
+<p>AEMと呼ばれるWebサイト構築・運営ができるアプリケーションです。<br>主に企業の大規模サイトに利用されています。<br>このAEMを使用して企業サイトのオーサリングを行っていました。<br>CMSのような使い方ができますがCMSではないようです。</p>
 
 
 
@@ -391,15 +391,15 @@
 
 
 
-<h4 class="wp-block-heading">某携帯電話事業会社の運用</h4>
+<h4 class="wp-block-heading">某携帯電話事業会社サイトの運用</h4>
 
 
 
-<p>新規ページ作成から公開までの作業を行いました。<br>GUIにて作業もできますが、スタイルシートやJSのソースを適用できたりもしますので工夫次第で様々な作業を行いました。<br>しかし、記述したソースと、AEM内部のソースが重複したり打ち消しあったりするので取り扱いには注意が必要でした。</p>
+<p>新規ページ作成から公開までの作業を行いました。<br>GUIにて作業もできますが、スタイルシートやJSのソースを適用できたりもしますので工夫次第で様々な作業を行いました。<br>記述したソースとAEM内部のソースが重複したり打ち消しあったりするのでアセットファイルの編集の際は注意が必要でした。</p>
 
 
 
-<p>また、本番アップロードなども簡単にできてしまうので気をつけなければサイトに大きな影響が出てしまいます。公開などの際は必ず単独では作業せずを、工夫や改善を繰り返しながら運用を行ったことはいい経験になりました。</p>
+<p>また、本番アップロードなども簡単にできてしまうので気をつけなければサイトに大きな影響が出てしまうので、公開などの際は必ず単独では作業しないなどチーム全体での改善など、非常に良い経験になりました。</p>
 
 
 
@@ -407,7 +407,7 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>/wp_portfolio01_static/2024/01/28/aem/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>
