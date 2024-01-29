@@ -13,7 +13,7 @@
 	<atom:link href="/wp_portfolio01_static/feed/" rel="self" type="application/rss+xml" />
 	<link>/wp_portfolio01_static</link>
 	<description>Jinya Yamamoto</description>
-	<lastBuildDate>Thu, 25 Jan 2024 11:34:56 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 29 Jan 2024 21:32:15 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -22,11 +22,11 @@
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 	<item>
 		<title>Front side</title>
-		<link>/wp_portfolio01_static/2024/01/16/test-post/</link>
-					<comments>/wp_portfolio01_static/2024/01/16/test-post/#respond</comments>
+		<link>/wp_portfolio01_static/2024/01/28/frontside/</link>
+					<comments>/wp_portfolio01_static/2024/01/28/frontside/#respond</comments>
 		
 		<dc:creator><![CDATA[jinya]]></dc:creator>
-		<pubDate>Tue, 16 Jan 2024 08:39:18 +0000</pubDate>
+		<pubDate>Sun, 28 Jan 2024 08:39:18 +0000</pubDate>
 				<category><![CDATA[未分類]]></category>
 		<guid isPermaLink="false">/wp_portfolio01_static/?p=18</guid>
 
@@ -82,6 +82,14 @@
 
 
 
+<p></p>
+
+
+
+<p></p>
+
+
+
 <h3 class="wp-block-heading">実際に参画した案件の例</h3>
 
 
@@ -122,28 +130,205 @@
 
 
 
+<h3 class="wp-block-heading">コードスニペット</h3>
+
+
+
+<p>業務で使用したり作成してみたcodepenです。もしも使用する際は自己責任でよろしくお願いします。</p>
+
+
+
+<h4 class="wp-block-heading">gridテンプレート</h4>
+
+
+
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="abWKmEW" data-preview="true" data-user="jinokinawa" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/jinokinawa/pen/abWKmEW">
+  グリッド テンプレート</a> by jinyayamamoto (<a href="https://codepen.io/jinokinawa">@jinokinawa</a>)
+  on <a href="https://codepen.io/">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<h4 class="wp-block-heading">calc 横幅調整 テンプレート</h4>
+
+
+
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="BaRxRqW" data-preview="true" data-user="jinokinawa" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/jinokinawa/pen/BaRxRqW">
+  calc width テンプレート</a> by jinyayamamoto (<a href="https://codepen.io/jinokinawa">@jinokinawa</a>)
+  on <a href="https://codepen.io/">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
+
+
 <p><br></p>
+
+
+
+<!-- <h4 class="wp-block-heading">gridでカードレイアウト</h4>
+
+
+
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="oNEwaZm" data-preview="true" data-user="jinokinawa" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/jinokinawa/pen/oNEwaZm">
+  グリッドカード テンプレート</a> by jinyayamamoto (<a href="https://codepen.io/jinokinawa">@jinokinawa</a>)
+  on <a href="https://codepen.io/">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+-->
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<!--　<h3 class="wp-block-heading">JavaScript</h3>　
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<h4 class="wp-block-heading">アンカーリンク遷移処理</h4>
+
+
+
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="KKQJPwJ" data-preview="true" data-user="jinokinawa" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/jinokinawa/pen/KKQJPwJ">
+  js アンカーリンク遷移など</a> by jinyayamamoto (<a href="https://codepen.io/jinokinawa">@jinokinawa</a>)
+  on <a href="https://codepen.io/">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<h4 class="wp-block-heading">tab表示分け</h4>
+
+
+
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="XWZOBMg" data-preview="true" data-user="jinokinawa" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/jinokinawa/pen/XWZOBMg">
+  複数タブ分け</a> by jinyayamamoto (<a href="https://codepen.io/jinokinawa">@jinokinawa</a>)
+  on <a href="https://codepen.io/">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<h4 class="wp-block-heading">IntersectionObserver APIを使用したナビ</h4>
+
+
+
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="qBxvaYz" data-preview="true" data-user="jinokinawa" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/jinokinawa/pen/qBxvaYz">
+  IntersectionObserver APIを使用したヘッダーナビ</a> by jinyayamamoto (<a href="https://codepen.io/jinokinawa">@jinokinawa</a>)
+  on <a href="https://codepen.io/">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<h4 class="wp-block-heading">非同期処理(async,awaitを使用してPromseオブジェクトを取得)</h4>
+
+
+
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="poLaEMg" data-preview="true" data-user="jinokinawa" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/jinokinawa/pen/poLaEMg">
+  Ajax(async,awaitを使用してPromseオブジェクトを取得)</a> by jinyayamamoto (<a href="https://codepen.io/jinokinawa">@jinokinawa</a>)
+  on <a href="https://codepen.io/">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+-->
 ]]></content:encoded>
 					
-					<wfw:commentRss>/wp_portfolio01_static/2024/01/16/test-post/feed/</wfw:commentRss>
+					<wfw:commentRss>/wp_portfolio01_static/2024/01/28/frontside/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>WordPress</title>
-		<link>/wp_portfolio01_static/2024/01/16/%e3%81%af%e3%82%8d%e3%83%bc%e3%82%8f%e3%83%bc%e3%82%8b%e3%81%a93/</link>
-					<comments>/wp_portfolio01_static/2024/01/16/%e3%81%af%e3%82%8d%e3%83%bc%e3%82%8f%e3%83%bc%e3%82%8b%e3%81%a93/#respond</comments>
+		<link>/wp_portfolio01_static/2024/01/28/wordpress/</link>
+					<comments>/wp_portfolio01_static/2024/01/28/wordpress/#respond</comments>
 		
 		<dc:creator><![CDATA[jinya]]></dc:creator>
-		<pubDate>Tue, 16 Jan 2024 08:24:02 +0000</pubDate>
+		<pubDate>Sun, 28 Jan 2024 08:24:02 +0000</pubDate>
 				<category><![CDATA[未分類]]></category>
 		<guid isPermaLink="false">/wp_portfolio01_static/?p=15</guid>
 
 					<description><![CDATA[WordPressに関しても多少ではありますが、一通り業務で経験させていただいたことがあります。
 スタイルなどを記述したり、PHPの簡単な処理を修正したりなどといった作業を行ったことがあります。&#8230;]]></description>
 										<content:encoded><![CDATA[
-<p>WordPressに関しても多少ではありますが、一通り業務で経験させていただいたことがあります。<br>スタイルなどを記述したり、PHPの簡単な処理を修正したりなどといった作業を行ったことがあります。</p>
+<p>WordPressに関しても多少ではありますが、一通り業務で経験させていただいたことがあります。<br>業務外ではありますが、スタイルを記述したり、PHPの処理を修正したりなどの経験はあります。</p>
 
 
 
@@ -152,15 +337,11 @@
 
 
 <ul>
-<li>サイト構築</li>
+<li>サイト構築・運用</li>
 
 
 
-<li>簡単なテーマのカスタマイズ</li>
-
-
-
-<li>プラグイン追加など</li>
+<li>テーマのカスタマイズ</li>
 </ul>
 
 
@@ -173,25 +354,25 @@
 
 
 
-<p>とある候補者様のお客様の事務所のワードプレスサイトの編集などをさせていただきました。<br>画像差し替えやテキスト編集など基本的な作業が多かったです。<br></p>
+<p>とある候補者様の事務所のWordPressサイトの運用・ページ作成をさせていただきました。<br>画像差し替えやテキスト編集など基本的な作業が多かったです。<br></p>
 
 
 
 <p></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/wp_portfolio01_static/2024/01/16/%e3%81%af%e3%82%8d%e3%83%bc%e3%82%8f%e3%83%bc%e3%82%8b%e3%81%a93/feed/</wfw:commentRss>
+					<wfw:commentRss>/wp_portfolio01_static/2024/01/28/wordpress/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Adobe Experience Manager</title>
-		<link>/wp_portfolio01_static/2024/01/15/hello-world/</link>
-					<comments>/wp_portfolio01_static/2024/01/15/hello-world/#comments</comments>
+		<link>/wp_portfolio01_static/2024/01/28/aem/</link>
+					<comments>/wp_portfolio01_static/2024/01/28/aem/#comments</comments>
 		
 		<dc:creator><![CDATA[jinya]]></dc:creator>
-		<pubDate>Mon, 15 Jan 2024 14:52:03 +0000</pubDate>
+		<pubDate>Sun, 28 Jan 2024 14:52:03 +0000</pubDate>
 				<category><![CDATA[未分類]]></category>
 		<guid isPermaLink="false">/wp_portfolio01_static/?p=1</guid>
 
@@ -225,18 +406,18 @@
 <p><br></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/wp_portfolio01_static/2024/01/15/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>/wp_portfolio01_static/2024/01/28/aem/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Others</title>
-		<link>/wp_portfolio01_static/2024/01/16/%e3%83%98%e3%83%ad%e3%83%bc%e3%83%af%e3%83%bc%e3%83%ab%e3%83%89/</link>
-					<comments>/wp_portfolio01_static/2024/01/16/%e3%83%98%e3%83%ad%e3%83%bc%e3%83%af%e3%83%bc%e3%83%ab%e3%83%89/#respond</comments>
+		<link>/wp_portfolio01_static/2024/01/28/others/</link>
+					<comments>/wp_portfolio01_static/2024/01/28/others/#respond</comments>
 		
 		<dc:creator><![CDATA[jinya]]></dc:creator>
-		<pubDate>Mon, 15 Jan 2024 16:29:34 +0000</pubDate>
+		<pubDate>Sat, 27 Jan 2024 16:29:34 +0000</pubDate>
 				<category><![CDATA[未分類]]></category>
 		<guid isPermaLink="false">/wp_portfolio01_static/?p=13</guid>
 
@@ -258,11 +439,11 @@
 
 
 
-<p>こちらについてはフロントエンドに比べて経験は浅くなりますが、業務ではPHPを使用していました。<br>また、Ruby, Pythonをしておりましたので少しだけ知識はあります。</p>
+<p>こちらについてはフロントエンドに比べて経験は浅くなりますが、業務にてPHPのプログラムの簡単な修正やMySQLを使用してデータベースの管理などを行っていました。<br>また、業務では使用経験はないのですが、Ruby, Pythonを学習しておりましたので少しだけ知識はあります。</p>
 
 
 
-<h4 class="wp-block-heading"><br>学習した言語やフレームワークについて</h4>
+<h4 class="wp-block-heading">学習した言語やフレームワークについて</h4>
 
 
 
@@ -280,22 +461,22 @@
 
 
 <li>Ruby on rails</li>
+
+
+
+<li>MySQL</li>
 </ul>
 
 
 
-<p>その他</p>
-
-
-
-<p>AWSも使用して本番にアプリケーションをアップロードしたこともありますが、一度きりだったので完全に使用方法を忘れてしまいました。</p>
+<p></p>
 
 
 
 <p></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/wp_portfolio01_static/2024/01/16/%e3%83%98%e3%83%ad%e3%83%bc%e3%83%af%e3%83%bc%e3%83%ab%e3%83%89/feed/</wfw:commentRss>
+					<wfw:commentRss>/wp_portfolio01_static/2024/01/28/others/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

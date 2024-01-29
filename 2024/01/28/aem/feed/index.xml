@@ -9,10 +9,10 @@
 <channel>
 	<title>
 	Adobe Experience Manager へのコメント	</title>
-	<atom:link href="/wp_portfolio01_static/2024/01/15/hello-world/feed/" rel="self" type="application/rss+xml" />
-	<link>/wp_portfolio01_static/2024/01/15/hello-world/</link>
+	<atom:link href="/wp_portfolio01_static/2024/01/28/aem/feed/" rel="self" type="application/rss+xml" />
+	<link>/wp_portfolio01_static/2024/01/28/aem/</link>
 	<description>Jinya Yamamoto</description>
-	<lastBuildDate>Wed, 17 Jan 2024 13:32:06 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 29 Jan 2024 21:32:08 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
@@ -21,7 +21,7 @@
 	<item>
 		<title>
 		WordPress コメントの投稿者 より		</title>
-		<link>/wp_portfolio01_static/2024/01/15/hello-world/#comment-1</link>
+		<link>/wp_portfolio01_static/2024/01/28/aem/#comment-1</link>
 
 		<dc:creator><![CDATA[WordPress コメントの投稿者]]></dc:creator>
 		<pubDate>Mon, 15 Jan 2024 14:52:03 +0000</pubDate>

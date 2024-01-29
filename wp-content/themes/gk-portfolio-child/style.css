@@ -11,10 +11,9 @@ Template: gk-portfolio
 .article-helper .entry-title {
   font-size: 17px;
 }
-
-.article-helper .entry-summary p {
+.article-helper .entry-summary > a p {
   /* font-size: 14px; */
-  /* color: #000000c2; */
+  color: #000000c2;
 }
 
 .post-preview.animation-slide-up {
