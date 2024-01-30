@@ -13,13 +13,13 @@
 	<atom:link href="/wp_portfolio01_static/feed/" rel="self" type="application/rss+xml" />
 	<link>/wp_portfolio01_static</link>
 	<description>Jinya Yamamoto</description>
-	<lastBuildDate>Tue, 30 Jan 2024 12:43:47 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 30 Jan 2024 23:41:30 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
 	<item>
 		<title>Front side</title>
 		<link>/wp_portfolio01_static/2024/01/28/frontside/</link>
@@ -155,10 +155,6 @@
 
 
 
-<p></p>
-
-
-
 <h4 class="wp-block-heading">calc 横幅調整 テンプレート</h4>
 
 
@@ -172,7 +168,7 @@
 
 
 
-<p><br></p>
+<p></p>
 
 
 
@@ -209,14 +205,6 @@
 
 
 
-<p></p>
-
-
-
-<p></p>
-
-
-
 <h4 class="wp-block-heading">ページ内アンカーリンクスクロール</h4>
 
 
@@ -224,6 +212,19 @@
 <p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="NWJyNYy" data-preview="true" data-user="jinokinawa" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/jinokinawa/pen/NWJyNYy">
   JS アンカーリンク(セクション二つ)</a> by jinyayamamoto (<a href="https://codepen.io/jinokinawa">@jinokinawa</a>)
+  on <a href="https://codepen.io/">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
+
+
+<h4 class="wp-block-heading">IntersectionObserver APIを使用したナビ</h4>
+
+
+
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="qBxvaYz" data-preview="true" data-user="jinokinawa" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/jinokinawa/pen/qBxvaYz">
+  IntersectionObserver APIを使用したヘッダーナビ</a> by jinyayamamoto (<a href="https://codepen.io/jinokinawa">@jinokinawa</a>)
   on <a href="https://codepen.io/">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
@@ -272,19 +273,6 @@
 
 
 <p></p>
-
-
-
-<h4 class="wp-block-heading">IntersectionObserver APIを使用したナビ</h4>
-
-
-
-<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="qBxvaYz" data-preview="true" data-user="jinokinawa" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/jinokinawa/pen/qBxvaYz">
-  IntersectionObserver APIを使用したヘッダーナビ</a> by jinyayamamoto (<a href="https://codepen.io/jinokinawa">@jinokinawa</a>)
-  on <a href="https://codepen.io/">CodePen</a>.</span>
-</p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
 
 
